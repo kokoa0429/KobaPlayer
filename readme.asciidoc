@@ -1,0 +1,7 @@
+= Kobaplayer
+
+== なにこれ
+wpf製のYouTubeプレイヤーです。
+
+https://ciebus.net/products/kobaplayer[公式ページ]
+
